@@ -1,6 +1,7 @@
 ### Hi there 👋
 -I'm saravanakumar
 -🔭I’m currently working on comcast
+- 🌱 I’m currently learning ...spring boot with microservice deployed in docker and statick website too in docker aws
 -Capturing project requirements and analysing the requirements.
 -Requirement analysis with customer.
 -Involved in converting monolithic application in to Micro services.
