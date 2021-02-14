@@ -1,14 +1,14 @@
 ### Hi there 👋
-- 🎶 I'm saravanakumar
-- 🔭 Working on comcast
-- 🌱 Currently learning ...spring boot with microservice deployed in docker and statick website too in docker aws
-- 💼 Capturing project requirements and analysing the requirements.
-- ⑉ Requirement analysis with customer.
-- 🔬 Involved in converting monolithic application in to Micro services.
-- ⨊ Modules and Transaction functionality.
-- ♨ micro services using Spring boot and java 8.
-- ⧮ enhancements and fix issues in applications.
-- 👍 good code quality and performance.
+🎶 I'm Saravana Kumar
+🔭 Working on Comcast
+🌱 Currently learning ...spring boot with microservice deployed in docker and static website too in docker aws
+💼 Capturing project requirements and analyzing the requirements.
+⑉ Requirement analysis with the customer.
+🔬 Involved in converting the monolithic applications into Microservices.
+⨊ Modules and Transaction functionality.
+♨ microservices using Spring boot and java 8.
+⧮ enhancements and fixes issues in applications.
+👍 good code quality and performance.
 <!--
 **itzsaravana/itzsaravana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
