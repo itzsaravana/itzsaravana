@@ -1,6 +1,6 @@
 ### Hi there 👋
 - 🎶 I'm Saravana Kumar
-- 🔭 Working on Comcast
+- 🔭 Working in Comcast
 - 🌱 Currently learning ...spring boot with microservice deployed in docker and static website too in docker aws
 - 💼 Capturing project requirements and analyzing the requirements.
 - ⑉ Requirement analysis with the customer.
