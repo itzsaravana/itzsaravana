@@ -9,7 +9,7 @@
 - ♨ microservices using Spring boot and java 8.
 - ⧮ enhancements and fixes issues in applications.
 - 👍 good code quality and performance.
-- https://itzsaravana.atlassian.net/wiki/spaces/SW/overview
+- https://itzsaravana.github.io/
 <!--
 **itzsaravana/itzsaravana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
